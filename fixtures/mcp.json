@@ -1,0 +1,11 @@
+{
+    "name": "vulnerable-mcp-server",
+    "version": "1.0.0",
+    "host": "0.0.0.0",
+    "port": 5000,
+    "env": {
+        "OPENAI_API_KEY": "sk-test-key",
+        "DEBUG_MODE": "true"
+    },
+    "tools": []
+}
